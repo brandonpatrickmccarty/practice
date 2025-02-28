@@ -1,5 +1,0 @@
-this is an example file
-
-this is an extra line 
-
-some more lines
